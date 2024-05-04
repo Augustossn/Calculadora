@@ -12,11 +12,6 @@ Os botões de operações são: "+", "-", "*", "/" para adição, subtração, m
 O botão "=" calcula o resultado da expressão matemática inserida.
 O botão "C" limpa a caixa de texto.
 
-Como Usar:
-Para realizar cálculos, clique nos botões numéricos para inserir os números desejados.
-Em seguida, clique nos botões de operação para selecionar a operação desejada.
-Por fim, clique no botão "=" para obter o resultado da expressão matemática.
-
 Observações:
 A calculadora também aceita entrada de teclado para inserir números.
 Pressione a tecla "Enter" para calcular o resultado da expressão.
